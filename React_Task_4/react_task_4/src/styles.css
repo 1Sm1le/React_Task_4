@@ -1,0 +1,24 @@
+.App {
+    font-family: sans-serif;
+  }
+
+  div {
+    width: 200px;
+    display: flex;
+    flex-direction: wrap;
+    gap: 15px;
+  }
+  .submit {
+    background-color: rgb(10, 221, 211);
+    color: #252525;
+    border-style: solid;
+    border-radius: 6px;
+  }
+
+  .Sign_in_button {
+    background-color: rgb(5, 196, 186);
+    color: #252525;
+    border-style: solid ;
+    border-radius: 6px;
+  }
+  
